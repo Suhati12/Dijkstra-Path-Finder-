@@ -1,13 +1,13 @@
-# 💻 Dijkstra Path Finder GUI
+# Dijkstra Path Finder GUI
 
 A Python GUI application that implements Dijkstra's shortest path algorithm with an interactive interface.
 
-## 🛠️ Technologies Used
-- 🐍 Python
+##  Technologies Used
+-  Python
 - Tkinter (for GUI)
 - Dijkstra Algorithm
 
-## 🎯 Features
+##  Features
 
 - **Create Nodes**: Add cities/locations as nodes
 - **Add Edges**: Connect nodes with weighted edges (distances)

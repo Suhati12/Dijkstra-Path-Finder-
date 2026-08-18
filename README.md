@@ -18,7 +18,7 @@ A Python GUI application that implements Dijkstra's shortest path algorithm with
 
 ```cmd
 python dijkstra_gui.py
-```
+
 
 #  Usage
 

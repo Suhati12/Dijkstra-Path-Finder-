@@ -1,4 +1,3 @@
-
 # Dijkstra Path Finder GUI
 
 A Python GUI application that implements Dijkstra's shortest path algorithm with an interactive interface.
